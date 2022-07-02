@@ -1,2 +1,2 @@
 # data-engineering
-Data engineering projects, notes, code examples
+Data engineering projects, notes, utilities
